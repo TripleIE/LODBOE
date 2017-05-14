@@ -1,0 +1,11 @@
+# Ignore everything in the root except the "ILO" directory.
+/*
+!.gitignore
+!ILO/
+
+# Ignore everything in the "ILO" directory, except the "src"
+
+#ILO/*
+#!ILO/src/
+
+
